@@ -1,0 +1,33 @@
+این تگ‌ها را داخل بخش <head> فایل index.html فعلی قرار بده.
+اگر تگ title یا description مشابه از قبل وجود دارد، نسخه قبلی را با این نسخه جایگزین کن؛ تکراری نگذار.
+
+<title>هنرستان شهیدان گل‌آرایش شیراز | معرفی رشته‌ها و اطلاعات هنرستان</title>
+<meta name="description" content="وب‌سایت هنرستان شهیدان گل‌آرایش شیراز؛ معرفی رشته‌های طراحی و دوخت، تربیت کودک، عکاسی، نقاشی و گرافیک، اخبار و اطلاعیه‌ها و اطلاعات تماس هنرستان.">
+<meta name="robots" content="index, follow, max-image-preview:large">
+<link rel="canonical" href="https://ashkammm.github.io/honarstan-golaraish/">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="fa_IR">
+<meta property="og:site_name" content="هنرستان شهیدان گل‌آرایش شیراز">
+<meta property="og:title" content="هنرستان شهیدان گل‌آرایش شیراز">
+<meta property="og:description" content="معرفی رشته‌ها، اخبار و اطلاعات تماس هنرستان شهیدان گل‌آرایش شیراز">
+<meta property="og:url" content="https://ashkammm.github.io/honarstan-golaraish/">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "EducationalOrganization",
+  "name": "هنرستان شهیدان گل‌آرایش",
+  "alternateName": "هنرستان شهیدان گل آرایش شیراز",
+  "url": "https://ashkammm.github.io/honarstan-golaraish/",
+  "telephone": "+987137223679",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "خیابان نیرو",
+    "addressLocality": "شیراز",
+    "addressRegion": "فارس",
+    "addressCountry": "IR"
+  },
+  "areaServed": {"@type": "City", "name": "شیراز"},
+  "knowsAbout": ["طراحی و دوخت", "تربیت کودک", "عکاسی", "نقاشی", "گرافیک"]
+}
+</script>
