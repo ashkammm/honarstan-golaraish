@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.honarstangolaraish.com/sitemap.xml
+
+Sitemap: https://ashkammm.github.io/honarstan-golaraish/sitemap.xml
